@@ -1,2 +1,4 @@
 #!/bin/bash
-find [A-Z] 
+find [A-Z] mv /tmp/u
+case  in
+    
