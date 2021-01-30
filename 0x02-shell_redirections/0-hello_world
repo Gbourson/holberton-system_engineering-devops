@@ -1,2 +1,3 @@
 #!/bin/bash
-"Hello_world" >> stdin
+echo "Hello world"
+> stdout
