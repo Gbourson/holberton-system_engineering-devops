@@ -1,4 +1,2 @@
 #!/bin/bash
-cat > \*\\\\'\"\Holberton School\"\'\\\\\*\$\?\*\*\*\*\*\:\) <<EOF
-Holberton School
-EOF
+touch \\\*\\\\\'\\"Holberton School\"\\\\\'\\\\\*\$\?\\\*\\\*\\\*\\\*\\\*\:\) | echo "Holberton School" > \\\*\\\\\'\"\Holberton School\"\\\\'\\\\\*\$\?\\\*\\\*\\\*\\\*\\\*\:\)
