@@ -1,0 +1,4 @@
+#!/bin/bash
+cat > ls_cwd_content <<EOF
+(ls -la)
+EOF
