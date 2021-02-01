@@ -1,2 +1,2 @@
 #!/bin/bash
-export TRUEKNOWLEDGE=1209 B=128 | echo $((TRUEKNOWLEDGE+B))
+echo $(($TRUEKNOWLEDGE+128))
