@@ -1,2 +1,2 @@
 #!/bin/bash
-var local BETTY = Holberton
+local var BETTY = Holberton
