@@ -1,2 +1,2 @@
 #!/bin/bash
-export power=42784 divide=1212 | echo $((power/divide))
+export POWER=42784 DIVIDE=1212 | echo $((POWER/DIVIDE))
